@@ -1,51 +1,35 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Vídeo: Um Minuto no Futuro das IAs Generativas 😜
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A criação do vídeo foi realizada utilizando diversas ferramentas de inteligência artificial, integradas em um processo eficiente e criativo. Inicialmente, o texto da narração foi gerado com o auxílio do ChatGPT, a partir do seguinte prompt: "Crie um texto para ser convertido em uma narração. Esta narração de 1 minuto deve apresentar uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana."
+
+Com o texto pronto, ele foi utilizado no ElevenLabs para produzir o áudio da narração com alta qualidade e naturalidade.
+
+Em seguida, no D-ID, foi selecionado um avatar que representasse a narração. Combinando o avatar ao áudio gerado, foi criado um vídeo com fundo verde, permitindo maior flexibilidade na edição visual.
+
+Por fim, a edição final foi realizada no Clipchamp, onde o recurso de Chroma Key foi usado para substituir o fundo verde por vídeos personalizados, enriquecendo o conteúdo visual. O resultado é um vídeo dinâmico e envolvente, que demonstra o potencial das ferramentas de IA na produção de conteúdo criativo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa [ChatGPT](https://chatgpt.com/) para roteirização e revisão;
+- IA Generativa [Elevenlabs](https://elevenlabs.io/app/sign-in) para sintetização de voz;
+- IA Generativa [D-ID](https://studio.d-id.com/) para geração de avatar virtual;
+- Editor de Vídeos [Clipchamp](https://app.clipchamp.com/login) para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A criação do vídeo foi realizada utilizando diversas ferramentas de inteligência artificial, integradas em um processo eficiente e criativo. Inicialmente, o texto da narração foi gerado com o auxílio do ChatGPT, a partir do seguinte prompt: "Crie um texto para ser convertido em uma narração. Esta narração de 1 minuto deve apresentar uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana."
+
+Com o texto pronto, ele foi utilizado no ElevenLabs para produzir o áudio da narração com alta qualidade e naturalidade.
+
+Em seguida, no D-ID, foi selecionado um avatar que representasse a narração. Combinando o avatar ao áudio gerado, foi criado um vídeo com fundo verde, permitindo maior flexibilidade na edição visual.
+
+Por fim, a edição final foi realizada no Clipchamp, onde o recurso de Chroma Key foi usado para substituir o fundo verde por vídeos personalizados, enriquecendo o conteúdo visual. O resultado é um vídeo dinâmico e envolvente, que demonstra o potencial das ferramentas de IA na produção de conteúdo criativo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+O vídeo apresenta, de forma envolvente e inspiradora, como as IAs Generativas estão revolucionando a interação humana com a tecnologia. Ele destaca seu impacto no trabalho, na educação, na saúde e na vida cotidiana, mostrando como essas ferramentas automatizam tarefas, personalizam experiências e ampliam nosso potencial criativo. A mensagem central é clara: o futuro já está aqui, e as possibilidades com as IAs Generativas são ilimitadas.
+
+[LINK PARA O VÍDEO AQUI](https://drive.google.com/file/d/1YkKw68e4cjM2fw6Uc6TIqao7IUAdHZ5x/view?usp=sharing)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar algo "natty" com IA apresenta desafios interessantes. Embora as ferramentas de inteligência artificial sejam incrivelmente poderosas, elas tendem a operar com base em padrões e dados preexistentes, o que pode dificultar a captura da "naturalidade" que muitas vezes está associada à espontaneidade humana.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
